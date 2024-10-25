@@ -12,9 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Cinekama"
         tools:targetApi="31">
-        <activity
-            android:name=".CineMainActivity"
-            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
